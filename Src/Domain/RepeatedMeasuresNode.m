@@ -32,7 +32,7 @@
 @implementation RepeatedMeasuresNode
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID = -714204384820498167L;
+//static const long serialVersionUID = -714204384820498167L;
 
 /*--------------------
  * Getter/Setter Methods

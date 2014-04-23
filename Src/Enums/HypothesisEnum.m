@@ -62,7 +62,7 @@
     
     HypothesisTypeEnum *hypothesisType  = NULL;
     for (int x = GRAND_MEAN; x < TREND; x++) {
-        HypothesisTypeEnum *type = (HypothesisTypeEnum *) x;
+        HypothesisTypeEnum type = (HypothesisTypeEnum) x;
         if ([theIdx.lowercaseString isEqualToString:idx.lowercaseString]) {
             hypothesisType = type;
         }

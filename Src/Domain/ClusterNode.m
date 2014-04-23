@@ -32,7 +32,7 @@
 
 
 /** The Constant serialVersionUID. */
-static const long _serialVersionUID = -8859192442862759392L;
+//static const long _serialVersionUID = -8859192442862759392L;
 
 @implementation ClusterNode
 

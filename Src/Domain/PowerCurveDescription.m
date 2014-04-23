@@ -32,7 +32,7 @@
 @implementation PowerCurveDescription
 
 /** The Constant serialVersionUID. */
-static const long  serialVersionUID = 701214126222753261L;
+//static const long  serialVersionUID = 701214126222753261L;
 
 /*--------------------
  * Getter/Setter Methods

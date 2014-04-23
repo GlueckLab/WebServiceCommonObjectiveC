@@ -33,7 +33,7 @@
 @implementation Hypothesis
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID = 570635778188633231L;
+//static const long serialVersionUID = 570635778188633231L;
 
 /*--------------------
  * Getter/Setter Methods

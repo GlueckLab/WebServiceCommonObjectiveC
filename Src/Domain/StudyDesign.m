@@ -41,7 +41,7 @@
 /** The Constant serialVersionUID. */
 
 
-static const long serialVersionUID = -2761124691778704875L;
+//static const long serialVersionUID = -2761124691778704875L;
 
 @implementation StudyDesign
 

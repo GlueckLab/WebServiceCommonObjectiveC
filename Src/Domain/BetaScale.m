@@ -29,7 +29,7 @@
  *
  */
 
-static const long _serialVersionUID = -2759158339433707691L;
+//static const long _serialVersionUID = -2759158339433707691L;
 
 @implementation BetaScale
 

@@ -32,7 +32,7 @@
 
 
 /** The Constant serialVersionUID. */
-static const long _serialVersionUID=-5142097237939251003L;
+//static const long _serialVersionUID=-5142097237939251003L;
 
 @implementation TypeIError
 

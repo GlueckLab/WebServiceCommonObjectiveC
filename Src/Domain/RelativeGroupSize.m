@@ -29,7 +29,7 @@
  */
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID = 5881947477812713919L;
+//static const long serialVersionUID = 5881947477812713919L;
 
 @implementation RelativeGroupSize
 

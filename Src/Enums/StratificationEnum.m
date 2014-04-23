@@ -63,7 +63,7 @@
     
     StratificationVariableEnum *stratificationEnum  = NULL;
     for (int x = TYPE_I_ERROR; x < STATISTICAL_TEST; x++) {
-        StratificationVariableEnum *type = (StratificationVariableEnum *) x;
+        StratificationVariableEnum type = (StratificationVariableEnum) x;
         if ([theIdx.lowercaseString isEqualToString:idx.lowercaseString]) {
             stratificationEnum = type;
         }

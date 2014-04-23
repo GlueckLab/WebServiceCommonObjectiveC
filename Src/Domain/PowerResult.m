@@ -30,7 +30,7 @@
  * @author Aarti Munjal
  */
 
-static const long serialVersionUID = -6289570391909037726L;
+//static const long serialVersionUID = -6289570391909037726L;
 
 // error/warning message associated with this result
 // TODO: private String errMsg = null;

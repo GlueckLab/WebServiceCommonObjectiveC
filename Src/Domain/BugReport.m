@@ -25,7 +25,7 @@
 @implementation BugReport
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID = 1L;
+//static const long serialVersionUID = 1L;
 
 /*--------------------
  * Getter/Setter Methods

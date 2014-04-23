@@ -30,7 +30,7 @@
  */
 
 /** The Constant serialVersionUID. */
-static const long _serialVersionUID=3373126132690287186;
+//static const long _serialVersionUID=3373126132690287186;
 
 @implementation BetweenParticipantFactor
 

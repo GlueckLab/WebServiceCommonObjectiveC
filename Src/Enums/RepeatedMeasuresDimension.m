@@ -62,7 +62,7 @@
     
     RepeatedMeasuresDimensionType *dimensionType  = NULL;
     for (int x = NUMERICAL; x < CATEGORICAL; x++) {
-        RepeatedMeasuresDimensionType *type = (RepeatedMeasuresDimensionType *) x;
+        RepeatedMeasuresDimensionType type = (RepeatedMeasuresDimensionType) x;
         if ([theIdx.lowercaseString isEqualToString:idx.lowercaseString]) {
             dimensionType = type;
         }

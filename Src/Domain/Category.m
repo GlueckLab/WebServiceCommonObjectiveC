@@ -24,7 +24,7 @@
 #import "Category.h"
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID=4943061399348979383L;
+//static const long serialVersionUID=4943061399348979383L;
 
 
 @implementation Category

@@ -31,7 +31,7 @@
  *
  */
 
-static const long serialVersionUID = 2312611754070134629L;
+//static const long serialVersionUID = 2312611754070134629L;
 
 @implementation PowerMethod
 

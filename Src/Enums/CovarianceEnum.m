@@ -64,7 +64,7 @@
     
     CovarianceTypeEnum *covarianceType  = NULL;
     for (int x = LEAR_CORRELATION; x < UNSTRUCTURED_CORRELATION; x++) {
-        CovarianceTypeEnum *ct = (CovarianceTypeEnum *) x;
+        CovarianceTypeEnum ct = (CovarianceTypeEnum) x;
         if ([theIdx.lowercaseString isEqualToString:idx.lowercaseString]) {
             covarianceType = ct;
         }

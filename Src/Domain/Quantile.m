@@ -30,7 +30,7 @@
  */
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID = 7498358054750918337L;
+//static const long serialVersionUID = 7498358054750918337L;
 
 @implementation Quantile
 

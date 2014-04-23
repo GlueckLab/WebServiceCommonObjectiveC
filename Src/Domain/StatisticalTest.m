@@ -32,7 +32,7 @@
 @implementation StatisticalTest
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID = 9105215653008294947L;
+//static const long serialVersionUID = 9105215653008294947L;
 
 /*--------------------
  * Getter/Setter Methods

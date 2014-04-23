@@ -62,7 +62,7 @@
     
     StudyDesignViewTypeEnum *studyDesignEnum  = NULL;
     for (int x = GUIDED_MODE; x < UPLOAD; x++) {
-        StudyDesignViewTypeEnum *type = (StudyDesignViewTypeEnum *) x;
+        StudyDesignViewTypeEnum type = (StudyDesignViewTypeEnum) x;
         if ([theIdx.lowercaseString isEqualToString:idx.lowercaseString]) {
             studyDesignEnum = type;
         }

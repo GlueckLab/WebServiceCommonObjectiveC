@@ -55,7 +55,7 @@
     
     HorizontalAxisLabelEnum *horizontalAxisLabel  = NULL;
     for (int x = VARIABILITY_SCALE_FACTOR; x < REGRESSION_COEEFICIENT_SCALE_FACTOR; x++) {
-        HorizontalAxisLabelEnum *b = (HorizontalAxisLabelEnum *) x;
+        HorizontalAxisLabelEnum b = (HorizontalAxisLabelEnum) x;
         if ([theIdx.lowercaseString isEqualToString:idx.lowercaseString]) {
             horizontalAxisLabel = b;
         }

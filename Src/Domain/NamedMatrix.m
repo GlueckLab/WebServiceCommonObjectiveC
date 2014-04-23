@@ -32,7 +32,7 @@
 @implementation NamedMatrix
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID = 7392545585998026017L;
+//static const long serialVersionUID = 7392545585998026017L;
 
 /*--------------------
  * Getter/Setter Methods

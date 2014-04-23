@@ -32,7 +32,7 @@
 
 /** The Constant serialVersionUID. */
 
-static const long _serialVersionUID=7498358054750918337L;
+//static const long _serialVersionUID=7498358054750918337L;
 
 @implementation SampleSize
 

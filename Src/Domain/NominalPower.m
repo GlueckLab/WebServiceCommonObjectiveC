@@ -28,7 +28,7 @@
 /** The id. */
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID = 1419240960874002525L;
+//static const long serialVersionUID = 1419240960874002525L;
 
 @implementation NominalPower
 

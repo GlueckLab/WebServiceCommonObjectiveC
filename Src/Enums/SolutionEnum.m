@@ -63,7 +63,7 @@
     
     SolutionTypeEnum *solution  = NULL;
     for (int x = POWER; x < DETECTABLE_DIFFERENCE; x++) {
-        SolutionTypeEnum *type = (SolutionTypeEnum *) x;
+        SolutionTypeEnum type = (SolutionTypeEnum)x;
         if ([theIdx.lowercaseString isEqualToString:idx.lowercaseString]) {
             solution = type;
         }

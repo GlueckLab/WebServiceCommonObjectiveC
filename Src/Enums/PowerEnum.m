@@ -63,7 +63,7 @@
     
     PowerMethodEnum *powerMethod  = NULL;
     for (int x = CONDITIONAL; x < QUANTILE; x++) {
-        PowerMethodEnum *type = (PowerMethodEnum *) x;
+        PowerMethodEnum type = (PowerMethodEnum) x;
         if ([theIdx.lowercaseString isEqualToString:idx.lowercaseString]) {
             powerMethod = type;
         }

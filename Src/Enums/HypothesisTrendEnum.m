@@ -56,7 +56,7 @@
     
     HypothesisTrendTypeEnum *hypothesisTrendType  = NULL;
     for (int x = NONE; x < CUBIC; x++) {
-        HypothesisTrendTypeEnum *type = (HypothesisTrendTypeEnum *) x;
+        HypothesisTrendTypeEnum type = (HypothesisTrendTypeEnum) x;
         if ([theIdx.lowercaseString isEqualToString:idx.lowercaseString]) {
             hypothesisTrendType = type;
         }

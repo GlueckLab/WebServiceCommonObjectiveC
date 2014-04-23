@@ -31,7 +31,7 @@
  */
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID = 5598549066957591425L;
+//static const long serialVersionUID = 5598549066957591425L;
 
 @implementation Spacing
 

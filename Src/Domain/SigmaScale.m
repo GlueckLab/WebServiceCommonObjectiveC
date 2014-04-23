@@ -30,7 +30,7 @@
  */
 
 /** The Constant serialVersionUID. */
-static const long serialVersionUID = -3573281687667302009L;
+//static const long serialVersionUID = -3573281687667302009L;
 
 @implementation SigmaScale
 

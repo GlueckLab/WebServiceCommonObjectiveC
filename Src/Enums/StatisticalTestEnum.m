@@ -63,7 +63,7 @@
     
     StatisticalTestTypeEnum *statisticalType  = NULL;
     for (int x = UNIREP; x < HLT; x++) {
-        StatisticalTestTypeEnum *type = (StatisticalTestTypeEnum *) x;
+        StatisticalTestTypeEnum type = (StatisticalTestTypeEnum) x;
         if ([theIdx.lowercaseString isEqualToString:idx.lowercaseString]) {
             statisticalType = type;
         }
